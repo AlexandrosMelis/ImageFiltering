@@ -1,0 +1,128 @@
+﻿  Filter.cpp
+c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\array2d.hpp(42): warning C4018: '<': signed/unsigned mismatch
+  c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\array2d.hpp(40): note: while compiling class template member function 'void math::Array2D<image::col>::setData(const T *const &)'
+          with
+          [
+              T=image::col
+          ]
+  c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\array2d.hpp(101): note: see reference to function template instantiation 'void math::Array2D<image::col>::setData(const T *const &)' being compiled
+          with
+          [
+              T=image::col
+          ]
+  c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\array2d.hpp(6): note: while compiling class template member function 'const unsigned int math::Array2D<image::col>::getWidth(void) const'
+  c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\filter.cpp(11): note: see reference to function template instantiation 'const unsigned int math::Array2D<image::col>::getWidth(void) const' being compiled
+  c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\image.h(13): note: see reference to class template instantiation 'math::Array2D<image::col>' being compiled
+  Image.cpp
+c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\array2d.hpp(42): warning C4018: '<': signed/unsigned mismatch
+  c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\array2d.hpp(40): note: while compiling class template member function 'void math::Array2D<image::col>::setData(const T *const &)'
+          with
+          [
+              T=image::col
+          ]
+  c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\array2d.hpp(88): note: see reference to function template instantiation 'void math::Array2D<image::col>::setData(const T *const &)' being compiled
+          with
+          [
+              T=image::col
+          ]
+  c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\array2d.hpp(74): note: while compiling class template member function 'math::Array2D<image::col>::Array2D(unsigned int,unsigned int,const T *)'
+          with
+          [
+              T=image::col
+          ]
+  c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\image.h(19): note: see reference to function template instantiation 'math::Array2D<image::col>::Array2D(unsigned int,unsigned int,const T *)' being compiled
+          with
+          [
+              T=image::col
+          ]
+  c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\image.h(13): note: see reference to class template instantiation 'math::Array2D<image::col>' being compiled
+  main.cpp
+c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\main.cpp(64): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\main.cpp(65): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\main.cpp(66): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\main.cpp(68): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\main.cpp(69): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\main.cpp(70): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\main.cpp(94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\main.cpp(153): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\main.cpp(154): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\main.cpp(155): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\main.cpp(157): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\main.cpp(158): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\main.cpp(159): warning C4244: '=': conversion from 'double' to 'S', possible loss of data
+          with
+          [
+              S=float
+          ]
+c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\main.cpp(184): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\array2d.hpp(120): warning C4018: '<': signed/unsigned mismatch
+  c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\array2d.hpp(115): note: while compiling class template member function 'math::Array2D<image::col> &math::Array2D<image::col>::operator =(const math::Array2D<image::col> &)'
+  c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\main.cpp(209): note: see reference to function template instantiation 'math::Array2D<image::col> &math::Array2D<image::col>::operator =(const math::Array2D<image::col> &)' being compiled
+  c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\image.h(13): note: see reference to class template instantiation 'math::Array2D<image::col>' being compiled
+c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\array2d.hpp(42): warning C4018: '<': signed/unsigned mismatch
+  c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\array2d.hpp(40): note: while compiling class template member function 'void math::Array2D<image::col>::setData(const T *const &)'
+          with
+          [
+              T=image::col
+          ]
+  c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\array2d.hpp(88): note: see reference to function template instantiation 'void math::Array2D<image::col>::setData(const T *const &)' being compiled
+          with
+          [
+              T=image::col
+          ]
+  c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\array2d.hpp(74): note: while compiling class template member function 'math::Array2D<image::col>::Array2D(unsigned int,unsigned int,const T *)'
+          with
+          [
+              T=image::col
+          ]
+  c:\users\melis\downloads\assc-3150102-3150224\assc-3150102-3150224\image.h(19): note: see reference to function template instantiation 'math::Array2D<image::col>::Array2D(unsigned int,unsigned int,const T *)' being compiled
+          with
+          [
+              T=image::col
+          ]
+  Generating Code...
+  AssC-3150102-3150224.vcxproj -> C:\Users\Melis\Downloads\AssC-3150102-3150224\Debug\AssC-3150102-3150224.exe
